@@ -8,5 +8,45 @@
     "question": "Which planet is known as the Red Planet?",
     "options": ["Earth", "Mars", "Jupiter", "Venus"],
     "answer": "Mars"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Thoams Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the largest ocean in the world?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the national anthem of India?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Sarojini Naidu", "Subhash Chandra Bose"],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": ["Yen", "Won", "Yuan", "Ringgit"],
+    "answer": "Yen"
+  },
+  {
+    "question": "Who is Known as the Father of the Nation in India?",
+    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "BR. Ambedkar", "Sardar Patel"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "Which is the smallest continent by land area?",
+    "options": ["Europe", "Antarctica", "Australia", "South America"],
+    "answer": "Australia"
   }
 ]
